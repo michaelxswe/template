@@ -1,0 +1,8 @@
+# x/ = all folders(root and nested) that matches x
+# *.x = all files(root and nested) that end with .x
+
+.venv
+*.log
+*.coverage
+ruff.toml
+pytest.ini
